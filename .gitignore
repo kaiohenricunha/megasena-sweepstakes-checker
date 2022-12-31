@@ -131,3 +131,5 @@ dmypy.json
 # personal
 cmds.md
 *.log
+venv/
+bets2.csv
