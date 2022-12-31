@@ -1,6 +1,20 @@
 # Requirements
 
 * [Python 3 or above](https://www.python.org/downloads/)
+* A .csv file with the betting data. 
+
+If you want to add a bet, just add a new row to the .csv file. 
+
+The format is as follows:
+
+| betcode | ownership | numbers |
+|------|-----------|-----------|
+... | ... | ... |
+| 49 | John Doe | 1 2 3 4 5 6 |
+
+Which translates to:
+
+49,John Doe,1 2 3 4 5 6
 
 # Running the project locally
 
