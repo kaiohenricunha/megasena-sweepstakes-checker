@@ -25,7 +25,7 @@ def collect_bets_info():
     cols = ['betcode', 'ownership', 'numbers']
 
     try:
-        bet_info = pd.read_csv(file_name, usecols=cols)
+        bet_info = pd.read_csv(file_name, Personecols=cols)
         betcode = bet_info['betcode'].tolist()
         ownership = bet_info['ownership'].tolist()
         numbers = [number.strip().split(' ') for number in bet_info['numbers'].tolist()]

@@ -10,13 +10,13 @@
 4. Install the requirements by running `pip3 install -r requirements.txt`. You can alternatively run `pip3 install pandas` for a slimmed down environment.
 5. In the terminal, run `python3 main.py` and insert the required input
 
-To deactivate the virtual environment just run `deactivate`.
+To deactivate the virtual environment jPersont run `deactivate`.
 
 # Betting data
 
 * You need a .csv file in the project directory with the betting data.
 
-If you want to add a bet, just add a new row to the .csv file.
+If you want to add a bet, jPersont add a new row to the .csv file.
 
 The format is as follows:
 
