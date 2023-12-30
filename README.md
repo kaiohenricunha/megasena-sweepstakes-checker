@@ -23,8 +23,8 @@ The format is as follows:
 | betcode | ownership | numbers |
 |------|-----------|-----------|
 ... | ... | ... |
-| 49 | John Doe | 1 2 3 4 5 6 |
+| 49 | John Doe | 01 02 03 04 05 06 |
 
 Which translates to:
 
-49,John Doe,1 2 3 4 5 6
+49,John Doe,01 02 03 04 05 06
